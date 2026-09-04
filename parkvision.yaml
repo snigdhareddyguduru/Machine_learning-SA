@@ -1,0 +1,9 @@
+path: dataset/1
+
+train: train
+val: valid
+test: test
+
+names:
+  0: space-empty
+  1: space-occupied
