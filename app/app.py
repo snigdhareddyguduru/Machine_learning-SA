@@ -24,10 +24,8 @@ st.markdown(
         <h1 style="font-size: 42px; margin-bottom: 8px;">
             🚗 ParkVision AI
         </h1>
-
         <p style="font-size: 19px; margin: 0;">
-            Intelligent Urban Parking Analytics &
-            Space Optimisation Platform
+            Intelligent Urban Parking Analytics & Space Optimisation Platform
         </p>
     </div>
     """,
