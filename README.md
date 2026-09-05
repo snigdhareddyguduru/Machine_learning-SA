@@ -72,7 +72,6 @@ Limitations & Future Improvements
 The current system analyses uploaded images rather than directly processing live CCTV footage. Future improvements could include real-time camera integration, better handling of unusual camera angles and lighting conditions, and further optimisation for faster inference.
 <img width="1440" height="900" alt="Screenshot 2026-09-05 at 9 57 27 PM" src="https://github.com/user-attachments/assets/8eb1b112-3fde-4a4f-979f-a482edfc35be" />
 <img width="1440" height="900" alt="Screenshot 2026-09-05 at 9 56 49 PM" src="https://github.com/user-attachments/assets/6850cac8-dd59-4bf7-857b-9c84844e8788" />
-<img width="1440" height="900" alt="Screenshot 2026-09-05 at 10 04 11 PM" src="https://github.com/user-attachments/assets/652b15ad-08ac-4ef0-9e8f-1547e2976c47" />
 <img width="1440" height="900" alt="Screenshot 2026-09-05 at 10 02 51 PM" src="https://github.com/user-attachments/assets/11fd6ee5-3628-4f23-ae32-37b64ea7d18a" />
 
 Technologies Used
